@@ -1,6 +1,6 @@
 {
   "name": "ember-simple-auth",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A lightweight library for implementing authentication/authorization with Ember.js applications.",
   "keywords": [
     "ember-addon"
@@ -31,7 +31,7 @@
     "broccoli-merge-trees": "^2.0.0",
     "ember-cli-babel": "^6.6.0",
     "ember-cli-is-package-missing": "^1.0.0",
-    "ember-cookies": "^0.0.13",
+    "ember-cookies": "https://github.com/igorstajic/ember-cookies.git",
     "ember-fetch": "https://github.com/igorstajic/ember-fetch.git",
     "ember-getowner-polyfill": "^1.1.0 || ^2.0.0",
     "silent-error": "^1.0.0"
